@@ -1,0 +1,19 @@
+{
+  "name": "crud-api",
+  "version": "1.0.0",
+  "description": "RSSchool CRUID-API task",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexeiKozlovskiy/CRUD-api.git"
+  },
+  "author": "Alexei Kozlovskiy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexeiKozlovskiy/CRUD-api/issues"
+  },
+  "homepage": "https://github.com/AlexeiKozlovskiy/CRUD-api#readme"
+}
