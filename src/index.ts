@@ -1,12 +1,8 @@
-// import http from 'node:http';
-import http from 'http';
 import * as dotenv from 'dotenv';
+import { server } from './server';
+import { DEFAULT_PORT } from './constants';
 
 dotenv.config();
-
-export const DEFAULT_PORT = 4000;
-
-const server = http.createServer(() => {});
 
 const PORT = process.env.PORT || DEFAULT_PORT;
 server.listen(PORT, () => {
