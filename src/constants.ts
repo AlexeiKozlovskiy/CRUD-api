@@ -15,3 +15,4 @@ export enum Message {
 
 export const DEFAULT_PORT = 4000;
 export const baseUrl = '/api/users';
+export const CLUSTER_MODE = 'cluster';
