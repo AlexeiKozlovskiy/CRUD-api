@@ -2,26 +2,29 @@
 
 ## Installing
 
-1. clone the repo
+1. Clone the repo
 
-````bash
+```bash
   https://github.com/AlexeiKozlovskiy/CRUD-api.git
 ```
 
-2. move to the created folder
+2. Move to the created folder
 
 ```bash
   cd CRUD-API
 ```
-3. checkout to the development branch
+
+3. Checkout to the development branch
 ```bash
   git checkout develop
 ```
-4. install all dependencies
+
+4. Install all dependencies
 ```bash
   npm imstall
 ```
-5. rename file `.env.example` to `.env`, default is 4000
+
+5. Rename file `.env.example` to `.env`, default is 4000
 
 ## Running
 
